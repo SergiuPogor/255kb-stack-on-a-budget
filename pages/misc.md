@@ -25,7 +25,6 @@
 * *Pros*: High quality curated APIs to help build your next project, 1 API Key gives you access to all APIs
 * *Limitations*: Free tier has rate limits, and some api features are locked down on the free tier
 * *Exceeding the free tier*: API calls return an error
-  
 ## Argonaut
 
 [Argonaut](https://argonaut.dev/?utm_source=stack-on-a-budget&utm_medium=rsrc)
